@@ -8,3 +8,5 @@ function updateBalance(value){
 }
 
 console.log("Hello Coders");
+
+console.log("hi");
