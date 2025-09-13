@@ -9,4 +9,5 @@ function updateBalance(value){
 
 console.log("Hello Coders");
 
-console.log("hi");
+console.log("hi");  
+console.log("new update");
